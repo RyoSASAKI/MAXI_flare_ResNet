@@ -1,4 +1,5 @@
 # MAXI_flare_ResNet
+(last updade : 2019 Dec 10)
 
 You can judge whether some transient are there or not from one orbit image of MAXI.
 To construct a learned model, I prepared 20,000 images. 
@@ -125,4 +126,6 @@ Trainable params: 274,402
 Non-trainable params: 1,216
 ________________________________________________________________________________________________
 
-As a result of this program, 
+As a result of this program, I got the cross-validation score is about 98 percent.
+
+This program is still improving.
