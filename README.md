@@ -10,7 +10,7 @@ I set the Lockman Hole image as incorrect data.
 
 
 To learn this residual network, I used Google Colaboratory.
-This program made layers as bellow:
+This program made layers as bellow
 
 
 As a result of this program, I got the cross-validation score is about 98 percent.
